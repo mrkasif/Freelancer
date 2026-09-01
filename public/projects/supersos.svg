@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0c0c0e"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" stop-color="#3f0909" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0c0c0e" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="280" y="110" width="240" height="240" rx="120" fill="#18181b" stroke="#27272a"/>
+  <circle cx="400" cy="230" r="80" fill="#f87171" opacity="0.9"/>
+  <circle cx="400" cy="230" r="90" fill="none" stroke="#f87171" opacity="0.4" stroke-width="4"/>
+  <circle cx="400" cy="230" r="105" fill="none" stroke="#f87171" opacity="0.2" stroke-width="4"/>
+  <text x="360" y="245" font-family="monospace" font-size="40" fill="#0c0c0e" font-weight="bold">SOS</text>
+  <rect x="330" y="380" width="140" height="10" rx="5" fill="#f87171" opacity="0.5"/>
+  <rect x="330" y="400" width="140" height="10" rx="5" fill="#27272a"/>
+  <rect x="330" y="420" width="140" height="10" rx="5" fill="#27272a"/>
+</svg>

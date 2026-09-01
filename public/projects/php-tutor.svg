@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0c0c0e"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" stop-color="#163300" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0c0c0e" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="140" y="70" width="520" height="360" rx="16" fill="#131316" stroke="#27272a"/>
+  <text x="180" y="140" font-family="monospace" font-size="24" fill="#a3e635">&lt;?php</text>
+  <rect x="180" y="165" width="440" height="12" rx="6" fill="#27272a"/>
+  <rect x="180" y="190" width="400" height="12" rx="6" fill="#27272a"/>
+  <rect x="200" y="225" width="120" height="10" rx="5" fill="#a3e635"/>
+  <rect x="200" y="250" width="380" height="10" rx="5" fill="#27272a"/>
+  <rect x="200" y="275" width="300" height="10" rx="5" fill="#27272a"/>
+  <rect x="200" y="300" width="350" height="10" rx="5" fill="#3a5a00"/>
+  <rect x="200" y="335" width="120" height="10" rx="5" fill="#a3e635"/>
+  <rect x="200" y="360" width="330" height="10" rx="5" fill="#27272a"/>
+  <text x="180" y="395" font-family="monospace" font-size="24" fill="#a3e635">?&gt;</text>
+</svg>

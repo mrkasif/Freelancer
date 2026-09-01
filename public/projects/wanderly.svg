@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0c0c0e"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" stop-color="#163300" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0c0c0e" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="150" y="70" width="500" height="360" rx="16" fill="#131316" stroke="#27272a"/>
+  <text x="180" y="140" font-family="monospace" font-size="22" fill="#a3e635">Map</text>
+  <rect x="180" y="160" width="300" height="180" rx="14" fill="#18181b" stroke="#27272a"/>
+  <path d="M210 300 L300 210 L360 260 L430 190 L480 240 L480 300 Z" fill="#a3e635" opacity="0.25"/>
+  <circle cx="360" cy="255" r="10" fill="#a3e635"/>
+  <rect x="180" y="360" width="200" height="10" rx="5" fill="#27272a"/>
+  <rect x="180" y="382" width="150" height="10" rx="5" fill="#27272a"/>
+  <rect x="420" y="160" width="200" height="180" rx="14" fill="#18181b" stroke="#27272a"/>
+  <rect x="440" y="180" width="60" height="60" rx="8" fill="#a3e635" opacity="0.2"/>
+  <circle cx="470" cy="210" r="6" fill="#a3e635"/>
+  <rect x="440" y="256" width="120" height="8" rx="4" fill="#27272a"/>
+  <rect x="440" y="274" width="160" height="8" rx="4" fill="#27272a"/>
+  <rect x="440" y="292" width="100" height="8" rx="4" fill="#27272a"/>
+  <rect x="440" y="310" width="140" height="8" rx="4" fill="#27272a"/>
+</svg>

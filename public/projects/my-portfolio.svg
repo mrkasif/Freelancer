@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0c0c0e"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="500">
+      <stop offset="0%" stop-color="#163300" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0c0c0e" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="150" y="70" width="500" height="60" rx="14" fill="#131316" stroke="#27272a"/>
+  <circle cx="180" cy="100" r="15" fill="#a3e635" opacity="0.6"/>
+  <rect x="210" y="80" width="60" height="10" rx="5" fill="#27272a"/>
+  <rect x="280" y="93" width="120" height="8" rx="4" fill="#27272a"/>
+  <rect x="520" y="78" width="110" height="44" rx="22" fill="#a3e635" opacity="0.9"/>
+  <rect x="150" y="160" width="230" height="270" rx="16" fill="#131316" stroke="#27272a"/>
+  <rect x="175" y="185" width="180" height="14" rx="4" fill="#27272a"/>
+  <rect x="175" y="215" width="160" height="8" rx="4" fill="#27272a"/>
+  <rect x="175" y="233" width="180" height="8" rx="4" fill="#27272a"/>
+  <rect x="175" y="260" width="120" height="10" rx="5" fill="#a3e635"/>
+  <rect x="175" y="285" width="170" height="8" rx="4" fill="#27272a"/>
+  <rect x="175" y="303" width="140" height="8" rx="4" fill="#27272a"/>
+  <rect x="175" y="330" width="120" height="10" rx="5" fill="#3a5a00"/>
+  <rect x="175" y="355" width="160" height="8" rx="4" fill="#27272a"/>
+  <rect x="175" y="373" width="130" height="8" rx="4" fill="#27272a"/>
+  <rect x="410" y="160" width="240" height="270" rx="16" fill="#131316" stroke="#27272a"/>
+  <rect x="435" y="185" width="190" height="14" rx="4" fill="#27272a"/>
+  <rect x="435" y="215" width="170" height="8" rx="4" fill="#27272a"/>
+  <rect x="435" y="233" width="150" height="8" rx="4" fill="#27272a"/>
+  <rect x="435" y="260" width="120" height="10" rx="5" fill="#a3e635"/>
+  <rect x="435" y="285" width="180" height="8" rx="4" fill="#27272a"/>
+  <rect x="435" y="303" width="130" height="8" rx="4" fill="#27272a"/>
+  <rect x="435" y="330" width="120" height="10" rx="5" fill="#3a5a00"/>
+  <rect x="435" y="355" width="150" height="8" rx="4" fill="#27272a"/>
+  <rect x="435" y="373" width="120" height="8" rx="4" fill="#27272a"/>
+</svg>
